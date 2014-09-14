@@ -14,6 +14,6 @@ You will more likely be hosted by some Parisians, they usually don't bite, but d
 ## Submit a talk
 
 - fork this repo
-- cp submitTalk.md proposed/01.my_talk.md
+- cp submitTalk.md proposed/my_talk.md
 - edit
 - submit a pull request
