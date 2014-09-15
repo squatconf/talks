@@ -10,5 +10,10 @@ Can host ppl    : N/A
 
 # WebGL goes Bananas
 
-![WebGL](https://raw.github.com/joates/talks/master/img/webgl-logo.png) ![Banana pi](https://raw.github.com/joates/talks/master/img/banana-pi-logo.jpg)
+We will learn how to create this animation (_using only mathematics_)
+
+![Demo](https://raw.githubusercontent.com/joates/talks/wegl-gone-bananas-img/img/glsl-demo.gif)
+
+<hr />
+![WebGL](https://raw.githubusercontent.com/joates/talks/wegl-gone-bananas-img/img/webgl-logo.png) ![Banana pi](https://raw.githubusercontent.com/joates/talks/wegl-gone-bananas-img/img/banana-pi-logo.jpg)
 
