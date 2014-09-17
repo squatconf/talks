@@ -13,7 +13,7 @@ Welcome to SquatConf CFP repository.
 
 All talks are welcome, but we are _not_ here to promote "how we X helped
 the company Y to become the biggest in Z". We are here to have some good
-conversations about existing technologies, with an emphasis on ones that free
+conversations about existing technologies, with an emphasis on those that free
 our minds.
 
 When proposing a talk, please let us know if you can afford the price of your
