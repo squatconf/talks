@@ -20,6 +20,8 @@ Expect:
 
 * Sidebars on protocol implementation/general development nightmares
 * War stories on other P2P/data transfer problems I have worked on IRL
+* Live Demo
+
 
 Do Not Expect 
 
