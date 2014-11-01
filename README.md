@@ -4,10 +4,13 @@ Welcome to SquatConf CFP repository.
 
 ## Submit a talk
 
-- Fork this repo
-- `cp submitTalk.md proposed/my_talk.md`
-- Edit your talk
-- Submit a pull request
+**CfP is now closed**<br />
+_many thanks to everyone who contributed_
+
+- ~~fOrk this repo~~
+- ~~`cp submitTalk.md proposed/my_talk.md`~~
+- ~~Edit your talk~~
+- ~~Submit a pull request~~
 
 ## Disclaimer
 
