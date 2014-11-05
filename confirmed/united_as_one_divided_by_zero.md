@@ -8,7 +8,7 @@ need room       : no
 Location        : Paris
 Can host ppl    : maybe
 
-# Screw Freedom, I want Empowerment
+# United as one, divided by zero
 
 The difference between Freedom and Empowerment is the difference between the people inside
 of the bank and the homeless people out front. Cryptography is not freedom, it locks us out
@@ -17,7 +17,7 @@ goods and services to people we don't know and it makes our financial transactio
 These technologies take away our individuality and our freedom but they also give us a
 collective voice.
 
-United as one, divided by zero.
+*Screw Freedom, I want Empowerment*
 
 CryptPad is the **zero knowledge** (the server cannot see what you type) realtime
 collaborative visual editor. Developed in two days of furious hacking, it's still a prototype
