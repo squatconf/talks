@@ -1,33 +1,30 @@
-# SquatConf Call For Papers
+# SquatConf Call For Papers Berlin 2016
 
-Welcome to SquatConf CFP repository.
+Welcome to SquatConf CFP repository. you can also mail your submition to
 
 ## Submit a talk
 
-**CfP is now closed**<br />
-_many thanks to everyone who contributed_
-
-- ~~fOrk this repo~~
-- ~~`cp submitTalk.md proposed/my_talk.md`~~
-- ~~Edit your talk~~
-- ~~Submit a pull request~~
+- fOrk this repo
+- `cp submitTalk.md proposed/my_talk.md`
+- Edit your talk
+- Submit a pull request
 
 ## Disclaimer
 
 All talks are welcome, but we are _not_ here to promote "how we X helped
 the company Y to become the biggest in Z". We are here to have some good
-conversations about existing technologies, with an emphasis on those that free
+conversations, with an emphasis on those that free
 our minds.
 
 When proposing a talk, please let us know if you can afford the price of your
 trip. This is not mandatory, nor is it a no-go for a talk, but due to the
 format of the conference, we might end up not being able to refund your trip.
 
-What we are NOT looking for is company sponsored trips, unless they expect
+We are NOT looking for is company sponsored trips, unless they expect
 nothing in return (not even being mentioned on stage), besides getting to
 send you to an interesting place with interesting people.
 
-You will most likely be hosted by some Parisians, they usually don't bite, but
-drink (and share) lots of wine, cheese. There will be no room service.
+You will most likely be hosted by some Berliner or in a squat, meet loads of
+cool people
 
 SquatConf is an experience, it is up to you to try it.
