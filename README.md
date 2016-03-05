@@ -1,6 +1,7 @@
 # SquatConf Call For Papers Berlin 2016
 
-Welcome to SquatConf CFP repository. you can also mail your submition to
+Welcome to SquatConf CFP repository. you can also mail your submition to (cfp@squatconf.eu)[talks@squatconf.eu] please copy this (model)[https://raw.githubusercontent.com/squatconf/talks/master/submitTalk.md]
+and mail it.
 
 ## Submit a talk
 
@@ -8,6 +9,8 @@ Welcome to SquatConf CFP repository. you can also mail your submition to
 - `cp submitTalk.md proposed/my_talk.md`
 - Edit your talk
 - Submit a pull request
+
+or use the email submition (see paragraph above)
 
 ## Disclaimer
 
