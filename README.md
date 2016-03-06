@@ -1,6 +1,6 @@
 # SquatConf Call For Papers Berlin 2016
 
-Welcome to SquatConf CFP repository. you can also mail your submition to [talks@squatconf.eu][1]]please copy this [model][2]and mail it.
+Welcome to SquatConf CFP repository. you can also mail your submition to [talks@squatconf.eu][1] please copy this [model][2]and mail it.
 
 ## Submit a talk
 
