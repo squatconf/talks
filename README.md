@@ -6,9 +6,9 @@ Welcome to SquatConf CFP repository.
 
 There are many ways to submit a talk including:
 
-- pad : [https://pad.ijhack.nl/p/squatconf-cfp]
+- pad : [pad.ijhack.nl/p/squatconf-cfp]
 - email : [talks@squatconf.eu]
-- Git repo : [https://git.cryto.net/Squatconf/Talks]
+- Git repo : [git.cryto.net/Squatconf/Talks]
 - this repo (but we are migrating out of github, so anything pushed here will be mirrored the crypto.net repo)
 
 please use this [model] and use whatever available way to reach us!
@@ -39,7 +39,7 @@ cool people.
 
 SquatConf is an experience, it is up to you to try it.
 
-[https://pad.ijhack.nl/p/squatconf-cfphttps://pad.ijhack.nl/p/squatconf-cfp]: https://pad.ijhack.nl/p/squatconf-cfp
+[pad.ijhack.nl/p/squatconf-cfp]: https://pad.ijhack.nl/p/squatconf-cfp
 [talks@squatconf.eu]: mailto:talks@squatconf.eu
 [model]: https://raw.githubusercontent.com/squatconf/talks/master/submitTalk.md
-[https://git.cryto.net/Squatconf/Talks] : https://git.cryto.net/Squatconf/Talks
+[git.cryto.net/Squatconf/Talks] : https://git.cryto.net/Squatconf/Talks
