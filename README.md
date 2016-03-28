@@ -1,15 +1,24 @@
 # SquatConf Call For Papers Berlin 2016
 
-Welcome to SquatConf CFP repository. you can also mail your submission to [talks@squatconf.eu] please copy this [model] and mail it.
+Welcome to SquatConf CFP repository.
 
 ## Submit a talk
 
-- Fork this repo
+There are many ways to submit a talk including:
+
+- pad : [https://pad.ijhack.nl/p/squatconf-cfp]
+- email : [talks@squatconf.eu]
+- Git repo : [https://git.cryto.net/Squatconf/Talks]
+- this repo (but we are migrating out of github, so anything pushed here will be mirrored the crypto.net repo)
+
+please use this [model] and use whatever available way to reach us!
+
+using git :
+
+- Fork the repo
 - `cp submitTalk.md proposed/my_talk.md`
 - Edit your talk
 - Submit a pull request
-
-or use the email submission (see paragraph above).
 
 ## Disclaimer
 
@@ -30,5 +39,7 @@ cool people.
 
 SquatConf is an experience, it is up to you to try it.
 
+[https://pad.ijhack.nl/p/squatconf-cfphttps://pad.ijhack.nl/p/squatconf-cfp]: https://pad.ijhack.nl/p/squatconf-cfp
 [talks@squatconf.eu]: mailto:talks@squatconf.eu
 [model]: https://raw.githubusercontent.com/squatconf/talks/master/submitTalk.md
+[https://git.cryto.net/Squatconf/Talks] : https://git.cryto.net/Squatconf/Talks
